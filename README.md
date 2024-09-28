@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/vasanthk47/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/vasanthk47/leetcode-problems/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/vasanthk47/leetcode-problems/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/vasanthk47/leetcode-problems/tree/master/0392-is-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/vasanthk47/leetcode-problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
