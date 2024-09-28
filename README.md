@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vasanthk47/leetcode-problems/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/vasanthk47/leetcode-problems/tree/master/0016-3sum-closest) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vasanthk47/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vasanthk47/leetcode-problems/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/vasanthk47/leetcode-problems/tree/master/0016-3sum-closest) |
 | [0392-is-subsequence](https://github.com/vasanthk47/leetcode-problems/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
@@ -45,4 +47,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vasanthk47/leetcode-problems/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/vasanthk47/leetcode-problems/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
