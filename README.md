@@ -29,12 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vasanthk47/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vasanthk47/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vasanthk47/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1256-rank-transform-of-an-array](https://github.com/vasanthk47/leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vasanthk47/leetcode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vasanthk47/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vasanthk47/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1256-rank-transform-of-an-array](https://github.com/vasanthk47/leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vasanthk47/leetcode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Two Pointers
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vasanthk47/leetcode-problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vasanthk47/leetcode-problems/tree/master/0016-3sum-closest) |
 | [0347-top-k-frequent-elements](https://github.com/vasanthk47/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [1256-rank-transform-of-an-array](https://github.com/vasanthk47/leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
