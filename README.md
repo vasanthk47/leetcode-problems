@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vasanthk47/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/vasanthk47/leetcode-problems/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/vasanthk47/leetcode-problems/tree/master/0392-is-subsequence) |
+| [3451-string-compression-iii](https://github.com/vasanthk47/leetcode-problems/tree/master/3451-string-compression-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
