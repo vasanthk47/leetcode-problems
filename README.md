@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/vasanthk47/leetcode-problems/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/vasanthk47/leetcode-problems/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/vasanthk47/leetcode-problems/tree/master/1039-find-the-town-judge) |
+| [1073-number-of-enclaves](https://github.com/vasanthk47/leetcode-problems/tree/master/1073-number-of-enclaves) |
 | [1256-rank-transform-of-an-array](https://github.com/vasanthk47/leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vasanthk47/leetcode-problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vasanthk47/leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -153,8 +154,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/vasanthk47/leetcode-problems/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/vasanthk47/leetcode-problems/tree/master/1073-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/vasanthk47/leetcode-problems/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/vasanthk47/leetcode-problems/tree/master/1073-number-of-enclaves) |
+## Depth-First Search
+|  |
+| ------- |
+| [1073-number-of-enclaves](https://github.com/vasanthk47/leetcode-problems/tree/master/1073-number-of-enclaves) |
+## Union Find
+|  |
+| ------- |
+| [1073-number-of-enclaves](https://github.com/vasanthk47/leetcode-problems/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
