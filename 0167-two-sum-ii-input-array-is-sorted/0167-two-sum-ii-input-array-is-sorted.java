@@ -1,9 +1,9 @@
 class Solution {
     public int[] twoSum(int[] n, int target) {
-        int a[]=new int[2];
-        for(int i=0;i<n.length;i++)
+        int a[]=new int[2],n1=n.length;
+        for(int i=0;i<n1;i++)
         {
-            for(int j=i+1;j<n.length;j++)
+            for(int j=i+1;j<n1;j++)
             {
                 int x=n[i]+n[j];
                 if(x==target){
