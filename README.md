@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/vasanthk47/leetcode-problems/tree/master/0067-add-binary) |
 | [0149-max-points-on-a-line](https://github.com/vasanthk47/leetcode-problems/tree/master/0149-max-points-on-a-line) |
+| [0204-count-primes](https://github.com/vasanthk47/leetcode-problems/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/vasanthk47/leetcode-problems/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/vasanthk47/leetcode-problems/tree/master/0233-number-of-digit-one) |
 | [0670-maximum-swap](https://github.com/vasanthk47/leetcode-problems/tree/master/0670-maximum-swap) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vasanthk47/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0174-dungeon-game](https://github.com/vasanthk47/leetcode-problems/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vasanthk47/leetcode-problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0204-count-primes](https://github.com/vasanthk47/leetcode-problems/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/vasanthk47/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/vasanthk47/leetcode-problems/tree/master/0212-word-search-ii) |
 | [0218-the-skyline-problem](https://github.com/vasanthk47/leetcode-problems/tree/master/0218-the-skyline-problem) |
@@ -328,4 +330,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/vasanthk47/leetcode-problems/tree/master/0218-the-skyline-problem) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vasanthk47/leetcode-problems/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vasanthk47/leetcode-problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
