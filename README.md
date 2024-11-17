@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/vasanthk47/leetcode-problems/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/vasanthk47/leetcode-problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/vasanthk47/leetcode-problems/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/vasanthk47/leetcode-problems/tree/master/0212-word-search-ii) |
 | [0392-is-subsequence](https://github.com/vasanthk47/leetcode-problems/tree/master/0392-is-subsequence) |
 | [3451-string-compression-iii](https://github.com/vasanthk47/leetcode-problems/tree/master/3451-string-compression-iii) |
 ## Bit Manipulation
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/vasanthk47/leetcode-problems/tree/master/0135-candy) |
 | [0140-word-break-ii](https://github.com/vasanthk47/leetcode-problems/tree/master/0140-word-break-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vasanthk47/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0212-word-search-ii](https://github.com/vasanthk47/leetcode-problems/tree/master/0212-word-search-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vasanthk47/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vasanthk47/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vasanthk47/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vasanthk47/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0140-word-break-ii](https://github.com/vasanthk47/leetcode-problems/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/vasanthk47/leetcode-problems/tree/master/0212-word-search-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/vasanthk47/leetcode-problems/tree/master/0085-maximal-rectangle) |
+| [0212-word-search-ii](https://github.com/vasanthk47/leetcode-problems/tree/master/0212-word-search-ii) |
 | [1036-rotting-oranges](https://github.com/vasanthk47/leetcode-problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/vasanthk47/leetcode-problems/tree/master/1073-number-of-enclaves) |
 ## Depth-First Search
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/vasanthk47/leetcode-problems/tree/master/0051-n-queens) |
 | [0140-word-break-ii](https://github.com/vasanthk47/leetcode-problems/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/vasanthk47/leetcode-problems/tree/master/0212-word-search-ii) |
 ## Memoization
 |  |
 | ------- |
