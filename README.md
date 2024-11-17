@@ -225,11 +225,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/vasanthk47/leetcode-problems/tree/master/0207-course-schedule) |
 | [1039-find-the-town-judge](https://github.com/vasanthk47/leetcode-problems/tree/master/1039-find-the-town-judge) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/vasanthk47/leetcode-problems/tree/master/0112-path-sum) |
+| [0207-course-schedule](https://github.com/vasanthk47/leetcode-problems/tree/master/0207-course-schedule) |
 | [1036-rotting-oranges](https://github.com/vasanthk47/leetcode-problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/vasanthk47/leetcode-problems/tree/master/1073-number-of-enclaves) |
 ## Matrix
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/vasanthk47/leetcode-problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vasanthk47/leetcode-problems/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vasanthk47/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0207-course-schedule](https://github.com/vasanthk47/leetcode-problems/tree/master/0207-course-schedule) |
 | [1073-number-of-enclaves](https://github.com/vasanthk47/leetcode-problems/tree/master/1073-number-of-enclaves) |
 ## Union Find
 |  |
@@ -342,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vasanthk47/leetcode-problems/tree/master/0204-count-primes) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/vasanthk47/leetcode-problems/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
