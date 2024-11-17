@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/vasanthk47/leetcode-problems/tree/master/0067-add-binary) |
 | [0149-max-points-on-a-line](https://github.com/vasanthk47/leetcode-problems/tree/master/0149-max-points-on-a-line) |
+| [0224-basic-calculator](https://github.com/vasanthk47/leetcode-problems/tree/master/0224-basic-calculator) |
 | [0670-maximum-swap](https://github.com/vasanthk47/leetcode-problems/tree/master/0670-maximum-swap) |
 ## String
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/vasanthk47/leetcode-problems/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/vasanthk47/leetcode-problems/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/vasanthk47/leetcode-problems/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/vasanthk47/leetcode-problems/tree/master/0224-basic-calculator) |
 | [0392-is-subsequence](https://github.com/vasanthk47/leetcode-problems/tree/master/0392-is-subsequence) |
 | [3451-string-compression-iii](https://github.com/vasanthk47/leetcode-problems/tree/master/3451-string-compression-iii) |
 ## Bit Manipulation
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/vasanthk47/leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/vasanthk47/leetcode-problems/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/vasanthk47/leetcode-problems/tree/master/0224-basic-calculator) |
 ## Graph
 |  |
 | ------- |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vasanthk47/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vasanthk47/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/vasanthk47/leetcode-problems/tree/master/0085-maximal-rectangle) |
+| [0224-basic-calculator](https://github.com/vasanthk47/leetcode-problems/tree/master/0224-basic-calculator) |
 ## Monotonic Stack
 |  |
 | ------- |
