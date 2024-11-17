@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/vasanthk47/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/vasanthk47/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vasanthk47/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Sliding Window
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/vasanthk47/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/vasanthk47/leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0224-basic-calculator](https://github.com/vasanthk47/leetcode-problems/tree/master/0224-basic-calculator) |
+| [0225-implement-stack-using-queues](https://github.com/vasanthk47/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -354,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/vasanthk47/leetcode-problems/tree/master/0207-course-schedule) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/vasanthk47/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
