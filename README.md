@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vasanthk47/leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0044-wildcard-matching](https://github.com/vasanthk47/leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/vasanthk47/leetcode-problems/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/vasanthk47/leetcode-problems/tree/master/0392-is-subsequence) |
 | [3451-string-compression-iii](https://github.com/vasanthk47/leetcode-problems/tree/master/3451-string-compression-iii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vasanthk47/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/vasanthk47/leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vasanthk47/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/vasanthk47/leetcode-problems/tree/master/0392-is-subsequence) |
 ## Trie
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/vasanthk47/leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vasanthk47/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0670-maximum-swap](https://github.com/vasanthk47/leetcode-problems/tree/master/0670-maximum-swap) |
 ## Merge Sort
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/vasanthk47/leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/vasanthk47/leetcode-problems/tree/master/0206-reverse-linked-list) |
 ## Graph
 |  |
