@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/vasanthk47/leetcode-problems/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/vasanthk47/leetcode-problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vasanthk47/leetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/vasanthk47/leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vasanthk47/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vasanthk47/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vasanthk47/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vasanthk47/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/vasanthk47/leetcode-problems/tree/master/0044-wildcard-matching) |
+| [0085-maximal-rectangle](https://github.com/vasanthk47/leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/vasanthk47/leetcode-problems/tree/master/0087-scramble-string) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vasanthk47/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/vasanthk47/leetcode-problems/tree/master/0392-is-subsequence) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/vasanthk47/leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [1036-rotting-oranges](https://github.com/vasanthk47/leetcode-problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/vasanthk47/leetcode-problems/tree/master/1073-number-of-enclaves) |
 ## Depth-First Search
@@ -208,10 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vasanthk47/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/vasanthk47/leetcode-problems/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vasanthk47/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/vasanthk47/leetcode-problems/tree/master/0085-maximal-rectangle) |
 ## Backtracking
 |  |
 | ------- |
