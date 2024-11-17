@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/vasanthk47/leetcode-problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/vasanthk47/leetcode-problems/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/vasanthk47/leetcode-problems/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/vasanthk47/leetcode-problems/tree/master/0214-shortest-palindrome) |
 | [0392-is-subsequence](https://github.com/vasanthk47/leetcode-problems/tree/master/0392-is-subsequence) |
 | [3451-string-compression-iii](https://github.com/vasanthk47/leetcode-problems/tree/master/3451-string-compression-iii) |
 ## Bit Manipulation
@@ -255,4 +256,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/vasanthk47/leetcode-problems/tree/master/0140-word-break-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/vasanthk47/leetcode-problems/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/vasanthk47/leetcode-problems/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/vasanthk47/leetcode-problems/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
