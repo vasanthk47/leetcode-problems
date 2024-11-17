@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/vasanthk47/leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/vasanthk47/leetcode-problems/tree/master/0067-add-binary) |
 | [0087-scramble-string](https://github.com/vasanthk47/leetcode-problems/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/vasanthk47/leetcode-problems/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/vasanthk47/leetcode-problems/tree/master/0392-is-subsequence) |
 | [3451-string-compression-iii](https://github.com/vasanthk47/leetcode-problems/tree/master/3451-string-compression-iii) |
 ## Bit Manipulation
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/vasanthk47/leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0085-maximal-rectangle](https://github.com/vasanthk47/leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/vasanthk47/leetcode-problems/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/vasanthk47/leetcode-problems/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vasanthk47/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/vasanthk47/leetcode-problems/tree/master/0392-is-subsequence) |
 ## Trie
