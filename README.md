@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vasanthk47/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vasanthk47/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/vasanthk47/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/vasanthk47/leetcode-problems/tree/master/0948-sort-an-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vasanthk47/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/vasanthk47/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vasanthk47/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/vasanthk47/leetcode-problems/tree/master/0948-sort-an-array) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vasanthk47/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/vasanthk47/leetcode-problems/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vasanthk47/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/vasanthk47/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/vasanthk47/leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/vasanthk47/leetcode-problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
