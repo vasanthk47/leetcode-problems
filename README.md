@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vasanthk47/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/vasanthk47/leetcode-problems/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vasanthk47/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vasanthk47/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/vasanthk47/leetcode-problems/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vasanthk47/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Heap (Priority Queue)
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/vasanthk47/leetcode-problems/tree/master/0112-path-sum) |
 | [1036-rotting-oranges](https://github.com/vasanthk47/leetcode-problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/vasanthk47/leetcode-problems/tree/master/1073-number-of-enclaves) |
 ## Matrix
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/vasanthk47/leetcode-problems/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vasanthk47/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1073-number-of-enclaves](https://github.com/vasanthk47/leetcode-problems/tree/master/1073-number-of-enclaves) |
 ## Union Find
