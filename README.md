@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vasanthk47/leetcode-problems/tree/master/0067-add-binary) |
 | [0149-max-points-on-a-line](https://github.com/vasanthk47/leetcode-problems/tree/master/0149-max-points-on-a-line) |
 | [0224-basic-calculator](https://github.com/vasanthk47/leetcode-problems/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/vasanthk47/leetcode-problems/tree/master/0233-number-of-digit-one) |
 | [0670-maximum-swap](https://github.com/vasanthk47/leetcode-problems/tree/master/0670-maximum-swap) |
 ## String
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/vasanthk47/leetcode-problems/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/vasanthk47/leetcode-problems/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vasanthk47/leetcode-problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0233-number-of-digit-one](https://github.com/vasanthk47/leetcode-problems/tree/master/0233-number-of-digit-one) |
 | [0392-is-subsequence](https://github.com/vasanthk47/leetcode-problems/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/vasanthk47/leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/vasanthk47/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/vasanthk47/leetcode-problems/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/vasanthk47/leetcode-problems/tree/master/0233-number-of-digit-one) |
 ## Graph
 |  |
 | ------- |
