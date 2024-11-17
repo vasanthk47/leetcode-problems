@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vasanthk47/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/vasanthk47/leetcode-problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/vasanthk47/leetcode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0203-remove-linked-list-elements](https://github.com/vasanthk47/leetcode-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vasanthk47/leetcode-problems/tree/master/0206-reverse-linked-list) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/vasanthk47/leetcode-problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/vasanthk47/leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0203-remove-linked-list-elements](https://github.com/vasanthk47/leetcode-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vasanthk47/leetcode-problems/tree/master/0206-reverse-linked-list) |
