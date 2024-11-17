@@ -285,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/vasanthk47/leetcode-problems/tree/master/0220-contains-duplicate-iii) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/vasanthk47/leetcode-problems/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
