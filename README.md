@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vasanthk47/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/vasanthk47/leetcode-problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vasanthk47/leetcode-problems/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vasanthk47/leetcode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vasanthk47/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vasanthk47/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/vasanthk47/leetcode-problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vasanthk47/leetcode-problems/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vasanthk47/leetcode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vasanthk47/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Heap (Priority Queue)
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vasanthk47/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vasanthk47/leetcode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0203-remove-linked-list-elements](https://github.com/vasanthk47/leetcode-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vasanthk47/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/vasanthk47/leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/vasanthk47/leetcode-problems/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vasanthk47/leetcode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0207-course-schedule](https://github.com/vasanthk47/leetcode-problems/tree/master/0207-course-schedule) |
 | [1036-rotting-oranges](https://github.com/vasanthk47/leetcode-problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/vasanthk47/leetcode-problems/tree/master/1073-number-of-enclaves) |
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/vasanthk47/leetcode-problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vasanthk47/leetcode-problems/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vasanthk47/leetcode-problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vasanthk47/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0207-course-schedule](https://github.com/vasanthk47/leetcode-problems/tree/master/0207-course-schedule) |
 | [1073-number-of-enclaves](https://github.com/vasanthk47/leetcode-problems/tree/master/1073-number-of-enclaves) |
