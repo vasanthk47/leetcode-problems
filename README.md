@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/vasanthk47/leetcode-problems/tree/master/0135-candy) |
 | [0140-word-break-ii](https://github.com/vasanthk47/leetcode-problems/tree/master/0140-word-break-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vasanthk47/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/vasanthk47/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/vasanthk47/leetcode-problems/tree/master/0212-word-search-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vasanthk47/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vasanthk47/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vasanthk47/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vasanthk47/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/vasanthk47/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vasanthk47/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vasanthk47/leetcode-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Tree
@@ -220,10 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vasanthk47/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vasanthk47/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vasanthk47/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vasanthk47/leetcode-problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
