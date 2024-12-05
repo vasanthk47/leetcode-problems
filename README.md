@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/vasanthk47/leetcode-problems/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/vasanthk47/leetcode-problems/tree/master/0224-basic-calculator) |
 | [0392-is-subsequence](https://github.com/vasanthk47/leetcode-problems/tree/master/0392-is-subsequence) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/vasanthk47/leetcode-problems/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3451-string-compression-iii](https://github.com/vasanthk47/leetcode-problems/tree/master/3451-string-compression-iii) |
 ## Bit Manipulation
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/vasanthk47/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/vasanthk47/leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/vasanthk47/leetcode-problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/vasanthk47/leetcode-problems/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vasanthk47/leetcode-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vasanthk47/leetcode-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
